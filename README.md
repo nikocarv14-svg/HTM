@@ -1,1 +1,101 @@
-# HTM
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valorant - Portal Oficial</title>
+</head>
+<body>
+    <header>
+        <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f320567c84ae28aec190e2f3002ce8c3642bd08a-1920x1080.jpg?accountingTag=VAL&auto=format&fit=fill&q=80&w=1184" alt="Logo Valorant" style="max-width: 200px; height: auto;">
+        <h1>VALORANT</h1>
+        <p>Táctico. Competitivo. Libre para jugar.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#sobre-juego">Sobre el Juego</a></li>
+            <li><a href="#agentes">Agentes</a></li>
+            <li><a href="#mapas">Mapas</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido a VALORANT</h2>
+            <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/d47ffdc62ae92c2190b27b06e4708f45cda23a16-1920x1080.jpg?accountingTag=LoL" alt="Agentes de Valorant" style="max-width: 100%; height: auto; margin: 20px 0;">
+            <p>Un juego táctico de disparos 5v5 donde cada acción cuenta. Juega gratis en PC.</p>
+            <p>Domina los agentes, controla el mapa y asegura la victoria con tu equipo.</p>
+        </section>
+
+        <section id="sobre-juego">
+            <h2>Sobre el Juego</h2>
+            <p><strong>VALORANT</strong> es un juego competitivo de disparos táctico desarrollado por Riot Games.</p>
+            
+            <h3>Características Principales:</h3>
+            <ul>
+                <li>Juego 5v5 basado en objetivos</li>
+                <li>Equipo único de Agentes con habilidades especiales</li>
+                <li>Sistema de economía estratégica</li>
+                <li>Mapas diseñados para el juego competitivo</li>
+                <li>Soporte a 240 FPS para jugadores de alto rendimiento</li>
+                <li>Ranking competitivo y profesional</li>
+                <li>Completamente gratuito</li>
+            </ul>
+        </section>
+
+        <section id="agentes">
+            <h2>Agentes</h2>
+            <p>Cada Agente tiene un conjunto único de habilidades. Hay cuatro roles principales:</p>
+            
+            <h3>Initiator (Iniciador)</h3>
+            <p>Especializados en recopilar información y preparar el camino para el ataque.</p>
+            <p>Ejemplo: Sova, Breach, Skye</p>
+
+            <h3>Sentinel (Centinela)</h3>
+            <p>Defensores que protegen el sitio con trampas y controles de zonas.</p>
+            <p>Ejemplo: Cypher, Killjoy, Chamber</p>
+
+            <h3>Duelist (Duelista)</h3>
+            <p>Agresivos, con habilidades de autodefensa para entrar en combate.</p>
+            <p>Ejemplo: Jett, Reyna, Raze</p>
+
+            <h3>Controller (Controlador)</h3>
+            <p>Dominan el mapa con humo y niebla para controlar el flujo del juego.</p>
+            <p>Ejemplo: Viper, Brimstone, Astra</p>
+        </section>
+
+        <section id="mapas">
+            <h2>Mapas Disponibles</h2>
+            <p>VALORANT cuenta con diversos mapas diseñados para tácticas variadas:</p>
+            
+            <h3>Mapas Actuales:</h3>
+            <ul>
+                <li><strong>Bind:</strong> Mapa simétrico con dos sitios separados</li>
+                <li><strong>Haven:</strong> El único mapa con tres sitios destructibles</li>
+                <li><strong>Split:</strong> Mapa vertical con arquitectura única</li>
+                <li><strong>Ascent:</strong> Inspirado en la arquitectura italiana</li>
+                <li><strong>Icebox:</strong> Base en un glaciar ártico</li>
+                <li><strong>Fracture:</strong> Mapa asiático dividido por un cañón</li>
+                <li><strong>Pearl:</strong> Ciudad submarina futurista</li>
+                <li><strong>Sunset:</strong> Ciudad californiana al atardecer</li>
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto e Información</h2>
+            <p><strong>Desarrollador:</strong> Riot Games</p>
+            <p><strong>Plataforma:</strong> PC (Windows)</p>
+            <p><strong>Precio:</strong> Libre para Jugar (F2P)</p>
+            <p><strong>Sitio Oficial:</strong> valorant.com</p>
+            <p><strong>Redes Sociales:</strong> @PlayVALORANT en Twitter, Facebook e Instagram</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 VALORANT. Desarrollado por Riot Games. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
